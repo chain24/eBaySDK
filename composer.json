@@ -29,7 +29,8 @@
     "autoload-dev": {
         "psr-4": {
             "DTS\\eBaySDK\\Test\\": "test/"
-        },
-        "classmap": ["build/"]
-    }
+        }        
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
